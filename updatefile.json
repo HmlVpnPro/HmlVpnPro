@@ -1,0 +1,55 @@
+{
+   "files": [  
+
+{
+         "name": "SG-Server-01",
+         "url": "axhJEm6ncF6q4li2QTG0OKHUOAoMZbNhH5FhI5Pu0f0V/V3HjLlahqFatfPdGacwAGFBLXveueT/6LpJUT6l7QvdS3fIy/X9"
+      },
+
+{
+         "name": "SG-Server-02",
+         "url": "z2A5FG6uIZvsUabRn6LGI5hVnmcpFc/NRxl1WN4gQlBBVL+XXJHearnamr/Z5DQdXBEvlhGgJlkJJpKBETgtltb28/kYcMEe"
+      },
+
+{
+         "name": "SG-Server-03",
+         "url": "CQ0Skvun3lpxKYIDAmYFkBh0SJfJM8ZUx/atuSxdFNRj1wklhm9XgRonRpKM0kyxm2FhNUNnVQdDOD84z9xvKPCmu5eZUSnL"
+      },
+      {
+         "name": "SG-Server-04",
+         "url": "8V1mm8IZ8Nb7CAzD9FXcRCtMV1AB5BuZNU4rQsYxdeQJYKBR6U9ZhOym1x71O5RC9sp9qVDqNVphlC1R9i6XS4G+nBt4uskm"
+      },
+      {
+         "name": "SG-Server-05",
+         "url": "BztzTV+dug8v6FAdV1wqmVFQfx8QQSnij+KPIuB7CDI7pGAo5g9ZzOqX/jZSurOF+TG4TsilS9EUozy5TOSZiCvFwKF7c/10"
+      },
+      {
+         "name": "TH-Server-01",
+         "url": "fR0Z9zbBXcee+n/wFFIPHWvbvtPt27PpNThTyymf4wNG39wgLgdrhdhFwMBvVJ7eb/pC+8rociOQywW+2Sx0gqXHixarxNDj"
+      },
+      {
+         "name": "TH-Server-02",
+         "url": "GtMg7kVleCpoJ59qvgZ2GWCQmGEhO3Otsv+dAkqv41thmM48pZUYSA6UjLdoDpL+WA0v6lFugOILbgJ905CnXkOpOxAjSxbf"
+      },
+      {
+         "name": "TH-Server-03",
+         "url": "W9UZ022FVvFpOqhAEekZG6X2WYYMokUsAnLBaj276ByBOrwRq6rTlvDZp7BKtWrwEk2FQkN++LasM3lQF+aq6aJQukn6cYQ8"
+      },
+      {
+         "name": "TH-Server-04",
+         "url": "8F6nrnlQKu9LNKZh7oGbDqwFmSCDQbb5KzMXINeAJB1uhLahD3tYkqdkl/3zI9oV1sjecOufITUgFI7Shc56QAXxkeeVC8lJ"
+      },
+      {
+         "name": "TH-Server-05",
+         "url": "mMw2P2RACKY24grRN+a7ucMbY8WBvzq1Oh5AkQr9Su+QeskTCD4wOvmbbWV3PFiW6v1d9g0C5RTGWJ08r5GYsVB9hdOPvNHX"
+      }
+
+
+   ],
+"message":"🚀 Config version - 1
+\n📆 Latest update - 16/08/2023
+\nSG🇸🇬Server 5IP
+\nTH🇹🇭Server 5IP",
+   "title":"Do you want to update?",
+   "version": 1
+}
